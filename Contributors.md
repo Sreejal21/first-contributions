@@ -14,6 +14,7 @@ akii
 - [Aakanksha Jadhav](https://github.com/aakankshajadhav2006)
 rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
+- [Sreejal verma](https://github.com/Sreejal21
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
 - [Varun]
